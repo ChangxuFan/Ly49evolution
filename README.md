@@ -6,15 +6,15 @@ Data from the 129 and NOD mouse strains were aligned to custom reference genomes
 
 The *Ly49* and *MAP1/8* annotations used in this study are located in the `annotations` directory.
 ## Code
-### General data processing:
+### non-R code
 The [snakeATAC](https://github.com/ChangxuFan/snakeATAC) pipeline, written by me, was used for ATAC-seq processing where indicated. 
 These are mostly scenarios where the functions of the [AIAP](https://github.com/Zhang-lab/ATAC-seq_QC_analysis) pipeline did not suffice.
 
 The [WGBS](https://github.com/ChangxuFan/wgbs/tree/fanc) pipeline was used for bisulfite data processing. 
 It was originally written by [Hyung Joo Lee](https://github.com/hyungjoo-lee/wgbs). 
 Xiaoyu Zhuo and I made it into a docker+snakemake pipeline.
-### Custom analyses
-All analyses code were written as functions and organized into R packages. 
+### R code
+Most analyses code were written as functions and organized into R packages. 
 The `analyses` directory of this repo contains R scripts that call these functions. 
 Therefore, to recapitulate the analyses, the following R packages (written by me, hence the suffix "Fanc") need to be installed. 
 Please note that these packages do not load any dependencies. If you have trouble installing them as packages, 
@@ -36,4 +36,6 @@ Some bash scritps and R scripts were also used. They are collected at:
 Please note that the goal of this study is not to make R packages. 
 These code are released to show how I performed each analyses exactly, as an effort to facilitate open science. 
 Therefore, you might need to adjust the code for it to run properly on your computer. 
-These code are not likely to run on a Windows machine.
+Most notably, the R code calls bash tools according to where they are installed on our server. 
+It is likely that you would have to modify these paths according to where these tools are installed on your computer. 
+These code are not likely to run on a Windows machine due to function calls such as `system("ln -s `realpath source` destination")`
