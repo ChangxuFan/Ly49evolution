@@ -15,7 +15,7 @@ It was originally written by [Hyung Joo Lee](https://github.com/hyungjoo-lee/wgb
 Xiaoyu Zhuo and I made it into a docker+snakemake pipeline.
 ### R code
 Most analyses code were written as functions and organized into R packages. 
-The `analyses` directory of this repo contains R scripts that call these functions. 
+The `analyses` directory of this repo contains R scripts that call these functions. The working directory is each analyses. For example, to run RNA-seq code, "analyses/RNA-seq" should be the workdir (use `setwd()` to set).
 Therefore, to recapitulate the analyses, the following R packages (written by me, hence the suffix "Fanc") need to be installed. 
 Please note that these packages do not load any dependencies. If you have trouble installing them as packages, 
 you could simply source the scripts under the `R/` directory.
