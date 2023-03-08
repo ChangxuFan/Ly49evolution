@@ -38,4 +38,4 @@ These code are released to show how I performed each analyses exactly, as an eff
 Therefore, you might need to adjust the code for it to run properly on your computer. 
 Most notably, the R code calls bash tools according to where they are installed on our server. 
 It is likely that you would have to modify these paths according to where these tools are installed on your computer. 
-These code are not likely to run on a Windows machine due to function calls such as `system("ln -s `realpath source` destination")`
+These code are not likely to run on a Windows machine due to function calls such as ``system("ln -s `realpath source` destination")``
