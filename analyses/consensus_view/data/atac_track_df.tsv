@@ -1,0 +1,4 @@
+regionID	track.name	track.type	track.file
+B6	atac	bdg	/bar/cfan/4dn/nk/fanc/atac2/sth/snakeMAPQ1/methylQA/Dpos_rep1_AS0.bigWig
+129	atac	bdg	/bar/cfan/4dn/nk/nod129/atac_150/sth/129/methylQA/129_AS0.bigWig
+NOD	atac	bdg	/bar/cfan/4dn/nk/nod129/atac_150/sth/NOD/methylQA/NOD_AS0.bigWig

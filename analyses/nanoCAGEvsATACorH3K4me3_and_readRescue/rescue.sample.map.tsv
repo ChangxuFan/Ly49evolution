@@ -1,0 +1,7 @@
+sample	bam	ctrl
+Dn1	~/4dn/nk/mappability/nkc_bowtie2/sth/atac_150_nkc/dn1.bam	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK1-Dneg-ATAC_SIC802_CCTAGCTGGA_S3_R1_001/step3.3_rmbl_WangT_ATAC_NK1-Dneg-ATAC_SIC802_CCTAGCTGGA_S3_R1_001.open.bed.gz
+Dn2	~/4dn/nk/mappability/nkc_bowtie2/sth/atac_150_nkc/dn2.bam	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK2-Dneg-ATAC_SIC804_GGTCAATTAA_S5_R1_001/step3.3_rmbl_WangT_ATAC_NK2-Dneg-ATAC_SIC804_GGTCAATTAA_S5_R1_001.open.bed.gz
+Dn3	~/4dn/nk/mappability/nkc_bowtie2/sth/atac_150_nkc/dn3.bam	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK3-Dneg-ATAC_SIC806_CCAGCAACAA_S7_R1_001/step3.3_rmbl_WangT_ATAC_NK3-Dneg-ATAC_SIC806_CCAGCAACAA_S7_R1_001.open.bed.gz
+Dp1	~/4dn/nk/mappability/nkc_bowtie2/sth/atac_150_nkc/dp1.bam	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK1-Dpos-ATAC_SIC801_CGTGGGTTCA_S2_R1_001/step3.3_rmbl_WangT_ATAC_NK1-Dpos-ATAC_SIC801_CGTGGGTTCA_S2_R1_001.open.bed.gz
+Dp2	~/4dn/nk/mappability/nkc_bowtie2/sth/atac_150_nkc/dp2.bam	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK2-Dpos-ATAC_SIC803_CTCCTACAAA_S4_R1_001/step3.3_rmbl_WangT_ATAC_NK2-Dpos-ATAC_SIC803_CTCCTACAAA_S4_R1_001.open.bed.gz
+Dp3	~/4dn/nk/mappability/nkc_bowtie2/sth/atac_150_nkc/dp3.bam	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK3-Dpos-ATAC_SIC805_GGTGCATTCA_S6_R1_001/step3.3_rmbl_WangT_ATAC_NK3-Dpos-ATAC_SIC805_GGTGCATTCA_S6_R1_001.open.bed.gz

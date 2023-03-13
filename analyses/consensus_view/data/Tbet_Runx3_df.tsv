@@ -1,0 +1,5 @@
+regionID	track.name	track.type	track.file
+B6	Tbet_rep1	bdg	/bar/cfan/4dn/nk/chip/re_map/sth/bw/Tbet_NK_WT_exvivo_rep1_chip_GSM4314405_oshea2030_SRR11087499_fastp_mkdup_filtered.None.1.bw
+B6	Tbet_rep2	bdg	/bar/cfan/4dn/nk/chip/re_map/sth/bw/Tbet_NK_WT_exvivo_rep2_chip_GSM4314424_oshea2020_SRR11087518_fastp_filtered_mkdup.None.1.bw
+B6	Runx3_exvivo	bdg	/bar/cfan/4dn/nk/chip/re_map/sth/bw/Runx3_NK_CHIP_Runx3_IP_chip_GSM1214531_Groner_2013_SRR955607_fastp_mkdup_filtered.None.1.bw
+B6	Runx3_IL15	bdg	/bar/cfan/4dn/nk/chip/re_map/sth/bw/Runx3_IL-15NK_CHIP_Runx3_IP_chip_GSM1214529_Groner_2014_SRR955605_fastp_mkdup_filtered.None.1.bw

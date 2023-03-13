@@ -1,0 +1,5 @@
+source("~/R_packages/common/base.R")
+source("~/R_packages/common/bioc.R")
+suppressMessages(library(abaFanc2))
+suppressMessages(library(liteRnaSeqFanc))
+suppressMessages(library(Biostrings))

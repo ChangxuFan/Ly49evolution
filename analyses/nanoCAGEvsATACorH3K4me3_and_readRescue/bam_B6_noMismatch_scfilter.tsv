@@ -1,0 +1,5 @@
+bam	sample
+~/4dn/nk/cage/nk/sth/star_aligned/B6_Ly49Dn_mRNA/B6_Ly49Dn_mRNA_Aligned.sortedByCoord.out.umi.dedup.filtered_noMismatch_scfilter.bam	B6_Ly49Dn_mRNA
+~/4dn/nk/cage/nk/sth/star_aligned/B6_Ly49Dn_terminator/B6_Ly49Dn_terminator_Aligned.sortedByCoord.out.umi.dedup.filtered_noMismatch_scfilter.bam	B6_Ly49Dn_terminator
+~/4dn/nk/cage/nk/sth/star_aligned/B6_Ly49Dp_mRNA/B6_Ly49Dp_mRNA_Aligned.sortedByCoord.out.umi.dedup.filtered_noMismatch_scfilter.bam	B6_Ly49Dp_mRNA
+~/4dn/nk/cage/nk/sth/star_aligned/B6_Ly49Dp_terminator/B6_Ly49Dp_terminator_Aligned.sortedByCoord.out.umi.dedup.filtered_noMismatch_scfilter.bam	B6_Ly49Dp_terminator

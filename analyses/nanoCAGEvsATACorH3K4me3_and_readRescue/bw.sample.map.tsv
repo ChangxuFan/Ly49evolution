@@ -1,0 +1,7 @@
+sample	bw
+Dn1	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK1-Dneg-ATAC_SIC802_CCTAGCTGGA_S3_R1_001/step4.2_insertion_site_WangT_ATAC_NK1-Dneg-ATAC_SIC802_CCTAGCTGGA_S3_R1_001.bigWig
+Dp1	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK1-Dpos-ATAC_SIC801_CGTGGGTTCA_S2_R1_001/step4.2_insertion_site_WangT_ATAC_NK1-Dpos-ATAC_SIC801_CGTGGGTTCA_S2_R1_001.bigWig
+Dn2	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK2-Dneg-ATAC_SIC804_GGTCAATTAA_S5_R1_001/step4.2_insertion_site_WangT_ATAC_NK2-Dneg-ATAC_SIC804_GGTCAATTAA_S5_R1_001.bigWig
+Dp2	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK2-Dpos-ATAC_SIC803_CTCCTACAAA_S4_R1_001/step4.2_insertion_site_WangT_ATAC_NK2-Dpos-ATAC_SIC803_CTCCTACAAA_S4_R1_001.bigWig
+Dn3	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK3-Dneg-ATAC_SIC806_CCAGCAACAA_S7_R1_001/step4.2_insertion_site_WangT_ATAC_NK3-Dneg-ATAC_SIC806_CCAGCAACAA_S7_R1_001.bigWig
+Dp3	/bar/cfan/4dn/nk/fanc/atac2/sth/target-pipe/Processed_WangT_ATAC_NK3-Dpos-ATAC_SIC805_GGTGCATTCA_S6_R1_001/step4.2_insertion_site_WangT_ATAC_NK3-Dpos-ATAC_SIC805_GGTGCATTCA_S6_R1_001.bigWig

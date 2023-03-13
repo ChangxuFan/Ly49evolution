@@ -1,0 +1,4 @@
+regionID	track.name	track.type	track.file
+B6	noMapq	bdg	/bar/cfan/4dn/nk/cage/nk/filter/sth/tracks_noMapq_capFilter/B6_Ly49Dp_mRNA/B6_Ly49Dp_mRNA_raw_minus.bedGraph.gz
+129	noMapq	bdg	/bar/cfan/4dn/nk/cage/nk/filter/sth/tracks_noMapq_capFilter/m129_mRNA/m129_mRNA_raw_minus.bedGraph.gz
+NOD	noMapq	bdg	/bar/cfan/4dn/nk/cage/nk/filter/sth/tracks_noMapq_capFilter/NOD_mRNA/NOD_mRNA_raw_minus.bedGraph.gz

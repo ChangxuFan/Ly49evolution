@@ -1,0 +1,383 @@
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20120412  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			i1_cons_N_0.5_shrink.phy
+. Data set: 				#1
+. Random init tree: 			#1
+. Tree topology search : 		SPRs
+. Initial tree: 			random tree
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			83
+. Log-likelihood: 			-27795.27673
+. Unconstrained likelihood: 		-10103.45528
+. Parsimony: 				5170
+. Tree size: 				4.17906
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		13.328
+. Proportion of invariant: 		0.014
+. Nucleotides frequencies:
+  - f(A)= 0.35167
+  - f(C)= 0.17523
+  - f(G)= 0.15537
+  - f(T)= 0.31773
+. GTR relative rate parameters : 
+  A <-> C    1.00185
+  A <-> G    2.21668
+  A <-> T    0.64829
+  C <-> G    1.11338
+  C <-> T    2.16745
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.79661   0.19264   0.37793   0.22603  
+   0.38662  -1.33215   0.18982   0.75570  
+   0.85543   0.21409  -1.41818   0.34866  
+   0.25018   0.41677   0.17049  -0.83745  
+
+
+
+. Run ID:				none
+. Random seed:				1665066681
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h3m0s (180 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			i1_cons_N_0.5_shrink.phy
+. Data set: 				#1
+. Random init tree: 			#2
+. Tree topology search : 		SPRs
+. Initial tree: 			random tree
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			83
+. Log-likelihood: 			-27795.27658
+. Unconstrained likelihood: 		-10103.45528
+. Parsimony: 				5170
+. Tree size: 				4.17903
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		13.321
+. Proportion of invariant: 		0.014
+. Nucleotides frequencies:
+  - f(A)= 0.35167
+  - f(C)= 0.17523
+  - f(G)= 0.15537
+  - f(T)= 0.31773
+. GTR relative rate parameters : 
+  A <-> C    1.00192
+  A <-> G    2.21743
+  A <-> T    0.64859
+  C <-> G    1.11387
+  C <-> T    2.16780
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.79666   0.19261   0.37797   0.22608  
+   0.38655  -1.33205   0.18986   0.75564  
+   0.85551   0.21413  -1.41822   0.34857  
+   0.25023   0.41674   0.17045  -0.83743  
+
+
+
+. Run ID:				none
+. Random seed:				1665066681
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h3m37s (217 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			i1_cons_N_0.5_shrink.phy
+. Data set: 				#1
+. Random init tree: 			#3
+. Tree topology search : 		SPRs
+. Initial tree: 			random tree
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			83
+. Log-likelihood: 			-27795.27657
+. Unconstrained likelihood: 		-10103.45528
+. Parsimony: 				5170
+. Tree size: 				4.17910
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		13.317
+. Proportion of invariant: 		0.014
+. Nucleotides frequencies:
+  - f(A)= 0.35167
+  - f(C)= 0.17523
+  - f(G)= 0.15537
+  - f(T)= 0.31773
+. GTR relative rate parameters : 
+  A <-> C    1.00139
+  A <-> G    2.21674
+  A <-> T    0.64811
+  C <-> G    1.11359
+  C <-> T    2.16755
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.79653   0.19257   0.37797   0.22599  
+   0.38647  -1.33214   0.18987   0.75579  
+   0.85552   0.21415  -1.41835   0.34869  
+   0.25013   0.41682   0.17051  -0.83746  
+
+
+
+. Run ID:				none
+. Random seed:				1665066681
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h3m11s (191 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			i1_cons_N_0.5_shrink.phy
+. Data set: 				#1
+. Random init tree: 			#4
+. Tree topology search : 		SPRs
+. Initial tree: 			random tree
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			83
+. Log-likelihood: 			-27795.27670
+. Unconstrained likelihood: 		-10103.45528
+. Parsimony: 				5170
+. Tree size: 				4.23840
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		13.329
+. Proportion of invariant: 		0.014
+. Nucleotides frequencies:
+  - f(A)= 0.35167
+  - f(C)= 0.17523
+  - f(G)= 0.15537
+  - f(T)= 0.31773
+. GTR relative rate parameters : 
+  A <-> C    1.00183
+  A <-> G    2.21673
+  A <-> T    0.64805
+  C <-> G    1.11291
+  C <-> T    2.16747
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.79659   0.19266   0.37797   0.22597  
+   0.38664  -1.33217   0.18976   0.75577  
+   0.85552   0.21402  -1.41823   0.34869  
+   0.25011   0.41681   0.17051  -0.83743  
+
+
+
+. Run ID:				none
+. Random seed:				1665066681
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h3m2s (182 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			i1_cons_N_0.5_shrink.phy
+. Data set: 				#1
+. Random init tree: 			#5
+. Tree topology search : 		SPRs
+. Initial tree: 			random tree
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			83
+. Log-likelihood: 			-27795.27650
+. Unconstrained likelihood: 		-10103.45528
+. Parsimony: 				5170
+. Tree size: 				4.17908
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		13.319
+. Proportion of invariant: 		0.014
+. Nucleotides frequencies:
+  - f(A)= 0.35167
+  - f(C)= 0.17523
+  - f(G)= 0.15537
+  - f(T)= 0.31773
+. GTR relative rate parameters : 
+  A <-> C    1.00178
+  A <-> G    2.21664
+  A <-> T    0.64808
+  C <-> G    1.11378
+  C <-> T    2.16745
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.79655   0.19264   0.37794   0.22597  
+   0.38661  -1.33224   0.18990   0.75573  
+   0.85545   0.21418  -1.41830   0.34867  
+   0.25011   0.41679   0.17050  -0.83740  
+
+
+
+. Run ID:				none
+. Random seed:				1665066681
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h3m14s (194 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			i1_cons_N_0.5_shrink.phy
+. Data set: 				#1
+. Random init tree: 			#6
+. Tree topology search : 		SPRs
+. Initial tree: 			random tree
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			83
+. Log-likelihood: 			-27795.27663
+. Unconstrained likelihood: 		-10103.45528
+. Parsimony: 				5170
+. Tree size: 				4.23833
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		13.326
+. Proportion of invariant: 		0.014
+. Nucleotides frequencies:
+  - f(A)= 0.35167
+  - f(C)= 0.17523
+  - f(G)= 0.15537
+  - f(T)= 0.31773
+. GTR relative rate parameters : 
+  A <-> C    1.00174
+  A <-> G    2.21702
+  A <-> T    0.64806
+  C <-> G    1.11415
+  C <-> T    2.16776
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.79652   0.19261   0.37797   0.22594  
+   0.38656  -1.33227   0.18995   0.75577  
+   0.85552   0.21423  -1.41839   0.34864  
+   0.25008   0.41681   0.17049  -0.83738  
+
+
+
+. Run ID:				none
+. Random seed:				1665066681
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h3m36s (216 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			i1_cons_N_0.5_shrink.phy
+. Data set: 				#1
+. Tree topology search : 		SPRs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			83
+. Log-likelihood: 			-27795.27662
+. Unconstrained likelihood: 		-10103.45528
+. Parsimony: 				5170
+. Tree size: 				4.23834
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		13.321
+. Proportion of invariant: 		0.014
+. Nucleotides frequencies:
+  - f(A)= 0.35167
+  - f(C)= 0.17523
+  - f(G)= 0.15537
+  - f(T)= 0.31773
+. GTR relative rate parameters : 
+  A <-> C    1.00076
+  A <-> G    2.21614
+  A <-> T    0.64798
+  C <-> G    1.11263
+  C <-> T    2.16677
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.79653   0.19252   0.37800   0.22602  
+   0.38636  -1.33191   0.18978   0.75578  
+   0.85558   0.21403  -1.41842   0.34880  
+   0.25016   0.41682   0.17056  -0.83755  
+
+
+
+. Run ID:				none
+. Random seed:				1665066681
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h2m40s (160 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

@@ -1,0 +1,13 @@
+fastq	sample
+~/4dn/nk/cage/nk/lodge/fastq/WangT_129-CAGE_SIC802_CCTAGCTGGA_S3_R1_001.fastq.gz	129_mRNA
+~/4dn/nk/cage/nk/lodge/fastq/WangT_129-CAGE_SIC802_CCTAGCTGGA_S3_R2_001.fastq.gz	129_mRNA
+~/4dn/nk/cage/nk/lodge/fastq/WangT_D-neg-CAGE_SIC804_GGTCAATTAA_S5_R1_001.fastq.gz	B6_Ly49Dn_mRNA
+~/4dn/nk/cage/nk/lodge/fastq/WangT_D-neg-CAGE_SIC804_GGTCAATTAA_S5_R2_001.fastq.gz	B6_Ly49Dn_mRNA
+~/4dn/nk/cage/nk/lodge/fastq/WangT_D-neg-terminator-CAGE_SIC809_ACGCTTGGAA_S10_R1_001.fastq.gz	B6_Ly49Dn_terminator
+~/4dn/nk/cage/nk/lodge/fastq/WangT_D-neg-terminator-CAGE_SIC809_ACGCTTGGAA_S10_R2_001.fastq.gz	B6_Ly49Dn_terminator
+~/4dn/nk/cage/nk/lodge/fastq/WangT_D-pos-CAGE_SIC803_CTCCTACAAA_S4_R1_001.fastq.gz	B6_Ly49Dp_mRNA
+~/4dn/nk/cage/nk/lodge/fastq/WangT_D-pos-CAGE_SIC803_CTCCTACAAA_S4_R2_001.fastq.gz	B6_Ly49Dp_mRNA
+~/4dn/nk/cage/nk/lodge/fastq/WangT_D-pos-terminator-CAGE_SIC808_CTCCAGGGTA_S9_R1_001.fastq.gz	B6_Ly49Dp_terminator
+~/4dn/nk/cage/nk/lodge/fastq/WangT_D-pos-terminator-CAGE_SIC808_CTCCAGGGTA_S9_R2_001.fastq.gz	B6_Ly49Dp_terminator
+~/4dn/nk/cage/nk/lodge/fastq/WangT_NoD-CAGE_SIC801_CGTGGGTTCA_S2_R1_001.fastq.gz	NOD_mRNA
+~/4dn/nk/cage/nk/lodge/fastq/WangT_NoD-CAGE_SIC801_CGTGGGTTCA_S2_R2_001.fastq.gz	NOD_mRNA
