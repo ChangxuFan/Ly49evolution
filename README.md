@@ -16,9 +16,10 @@ Xiaoyu Zhuo and I made it into a docker+snakemake pipeline.
 ### R code
 Most analyses code were written as functions and organized into R packages. 
 The `analyses` directory of this repo contains R scripts that call these functions. The working directory is each analysis. For example, to run RNA-seq code, "analyses/RNA-seq" should be the workdir (use `setwd()` to set).
-Therefore, to recapitulate the analyses, the following R packages (written by me, hence the suffix "Fanc") need to be installed. 
-Please note that these packages do not load any dependencies. If you have trouble installing them as packages, 
-you could simply source the scripts under the `R/` directory.
+
+The following R packages (written by me, hence the suffix "Fanc") need to be installed. 
+Please note that these packages do not load any dependencies/namespaces. As a result, certain errors could occur because methods can't be dispatched properly. 
+Instead of loading them using the `library()` command, I would recommend simply sourcing the scripts under the `R/` directory.
 * [abaFanc](https://github.com/ChangxuFan/abaFanc)
 * [abaFanc2](https://github.com/ChangxuFan/abaFanc2)
 * [bamFanc](https://github.com/ChangxuFan/bamFanc)
