@@ -1,6 +1,6 @@
 # Guide
 ## Data
-Raw and processed data are available at GSE226502 (reviewer token required)
+Raw and processed data are available at GSE226502
 ## Genomes and annotations
 Data from the 129 and NOD mouse strains were aligned to custom reference genomes. These genomes are located in the `fasta` directory.
 
@@ -34,9 +34,5 @@ Some bash scritps and R scripts were also used. They are collected at:
 * [scripts](https://github.com/ChangxuFan/scripts)
 * [R_for_bash](https://github.com/ChangxuFan/R_for_bash)
 
-Please note that the goal of this study is not to make R packages. 
-These code are released to show how I performed each analyses exactly, as an effort to facilitate open science. 
-Therefore, you might need to adjust the code for it to run properly on your computer. 
-Most notably, the R code calls bash tools according to where they are installed on our server. 
-It is likely that you would have to modify these paths according to where these tools are installed on your computer. 
-These code are not likely to run on a Windows machine due to function calls such as ``system("ln -s `realpath source` destination")``
+Please note that the code provided here documents how the analyses were performed on our server, 
+and might need to be adjusted to run properly on your computer. 
